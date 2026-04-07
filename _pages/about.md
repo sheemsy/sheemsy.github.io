@@ -11,10 +11,10 @@ redirect_from:
   <section class="research-home__hero">
     <div class="research-home__hero-grid">
       <div class="research-home__intro">
-        <p class="research-home__eyebrow">Seokyong Sheem</p>
-        <h1>Multimodal Intelligence for Healthcare</h1>
-        <p class="research-home__lead">I am an integrated Ph.D. student in Mechanical Engineering at Korea University. My work focuses on multimodal intelligence, wearable sensing, and human-centered AI, with an emphasis on building practical systems for healthcare and real-world behavioral understanding.</p>
-        <p class="research-home__lead">My recent research spans smartwatch-based sensing, multimodal representation learning, and machine learning systems that combine bio-signals, language, medical imaging, and interactive context.</p>
+        <p class="research-home__eyebrow">Integrated Ph.D. Student, Korea University</p>
+        <h1>Seokyong Sheem</h1>
+        <p class="research-home__lead">Seokyong Sheem is an integrated Ph.D. student in Mechanical Engineering at Korea University. His research focuses on multimodal intelligence for healthcare, wearable sensing, and human-centered artificial intelligence.</p>
+        <p class="research-home__lead">He is interested in machine learning systems that integrate physiological signals, language, medical imaging, and behavioral context to support robust inference in real-world settings.</p>
         <ul class="research-home__links">
           <li><a href="/cv/">Curriculum Vitae</a></li>
           <li><a href="/publications/">Publications</a></li>
@@ -32,19 +32,19 @@ redirect_from:
     <div class="research-home__areas">
       <article class="research-home__area">
         <h3>Multimodal Intelligence</h3>
-        <p>Learning unified representations across bio-signals, language, medical imaging, and other heterogeneous modalities.</p>
+        <p>Learning representations across heterogeneous modalities including bio-signals, text, and medical imaging.</p>
       </article>
       <article class="research-home__area">
         <h3>Wearable Sensing</h3>
-        <p>Designing practical pipelines for smartwatch-scale sensing and robust prediction in unconstrained environments.</p>
+        <p>Developing practical sensing pipelines for physiological monitoring and prediction in everyday environments.</p>
       </article>
       <article class="research-home__area">
         <h3>Human-Centered AI</h3>
-        <p>Building systems that remain useful under noisy observations, partial information, and complex human behavior.</p>
+        <p>Designing systems that remain reliable under noisy observations, partial information, and human variability.</p>
       </article>
       <article class="research-home__area">
         <h3>Healthcare AI</h3>
-        <p>Developing clinically relevant multimodal models for reasoning over medical knowledge and physiological data.</p>
+        <p>Building clinically relevant models for reasoning over physiological data and medical knowledge.</p>
       </article>
     </div>
   </section>
@@ -68,14 +68,14 @@ redirect_from:
       <div class="research-home__entry">
         <h3><a href="/publication/must">MUST: Smartwatch-based Multimodal Framework for Predicting Driver State and Takeover Performance</a></h3>
         <p class="research-home__meta-line">Proceedings of the CHI Conference on Human Factors in Computing Systems, 2026</p>
-        <p>A smartwatch-based multimodal framework for predicting driver state and takeover performance in conditionally autonomous driving.</p>
+        <p>A multimodal framework using smartwatch-based signals to predict driver state and takeover performance.</p>
       </div>
     </div>
   </section>
 
   <section class="research-home__section">
     <h2 class="research-home__section-title">Contact</h2>
-    <p>If you are interested in multimodal AI, wearable sensing, or healthcare-related machine learning, I am open to research collaboration and discussion.</p>
+    <p>For research inquiries and collaboration, please contact me by email or through the links below.</p>
     <ul class="research-home__contact-links">
       <li><a href="mailto:sheemsy@korea.ac.kr">sheemsy@korea.ac.kr</a></li>
       <li><a href="https://github.com/sheemsy">GitHub</a></li>
