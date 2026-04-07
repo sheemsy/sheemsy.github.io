@@ -79,7 +79,7 @@ redirect_from:
     <ul class="research-home__contact-links">
       <li><a href="mailto:sheemsy@korea.ac.kr">sheemsy@korea.ac.kr</a></li>
       <li><a href="https://github.com/sheemsy">GitHub</a></li>
-      <li><a href="https://www.linkedin.com/in/sheemsy">LinkedIn</a></li>
+      <li><a href="https://www.linkedin.com/in/seokyong-sheem-69518a23b/">LinkedIn</a></li>
       <li><a href="https://orcid.org/my-orcid?orcid=0009-0008-1095-9430">ORCID</a></li>
     </ul>
   </section>

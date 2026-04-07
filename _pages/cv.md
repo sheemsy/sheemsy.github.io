@@ -17,7 +17,7 @@ Contact
 * Email: [sheemsy@korea.ac.kr](mailto:sheemsy@korea.ac.kr)
 * Secondary Email: sheemsy@gmail.com
 * GitHub: [github.com/sheemsy](https://github.com/sheemsy)
-* LinkedIn: [linkedin.com/in/sheemsy](https://www.linkedin.com/in/sheemsy)
+* LinkedIn: [linkedin.com/in/seokyong-sheem-69518a23b](https://www.linkedin.com/in/seokyong-sheem-69518a23b/)
 
 Research Interests
 ======
