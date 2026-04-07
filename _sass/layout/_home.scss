@@ -12,6 +12,13 @@
   border-radius: 1.25rem;
 }
 
+.research-home__hero-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.7fr) minmax(220px, 0.8fr);
+  gap: 1.5rem;
+  align-items: center;
+}
+
 .research-home__eyebrow {
   margin: 0 0 0.85rem;
   color: var(--global-base-color);
@@ -45,6 +52,21 @@
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 1rem;
   margin-top: 1.75rem;
+}
+
+.research-home__portrait-wrap {
+  display: flex;
+  justify-content: center;
+}
+
+.research-home__portrait {
+  width: min(100%, 280px);
+  aspect-ratio: 1 / 1.18;
+  object-fit: cover;
+  object-position: center top;
+  border: 6px solid rgba(255, 255, 255, 0.92);
+  border-radius: 1.25rem;
+  box-shadow: 0 20px 50px rgba(30, 42, 56, 0.16);
 }
 
 .research-home__meta-card,
@@ -147,6 +169,7 @@
 }
 
 @media (max-width: 900px) {
+  .research-home__hero-grid,
   .research-home__meta,
   .research-home__areas {
     grid-template-columns: 1fr;
@@ -154,5 +177,9 @@
 
   .research-home__hero {
     padding: 1.4rem;
+  }
+
+  .research-home__portrait {
+    width: min(100%, 240px);
   }
 }

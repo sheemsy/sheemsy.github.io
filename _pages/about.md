@@ -9,13 +9,20 @@ redirect_from:
 
 <div class="research-home">
   <section class="research-home__hero">
-    <p class="research-home__eyebrow">Multimodal Intelligence for Healthcare and Human-Centered AI</p>
-    <h1>Building multimodal systems that understand people in the real world.</h1>
-    <p>I am an integrated Ph.D. student in Mechanical Engineering at Korea University. My research connects wearable sensing, multimodal learning, and human-centered AI to model driver state, health signals, and real-world interactive behavior.</p>
-    <div class="research-home__cta">
-      <a class="btn btn--large" href="https://mintlab.korea.ac.kr/MUST/">View MUST</a>
-      <a class="btn btn--inverse btn--large" href="/publications/">Selected Publications</a>
-      <a class="btn btn--inverse btn--large" href="/cv/">CV</a>
+    <div class="research-home__hero-grid">
+      <div>
+        <p class="research-home__eyebrow">Multimodal Intelligence for Healthcare and Human-Centered AI</p>
+        <h1>Building multimodal systems that understand people in the real world.</h1>
+        <p>I am an integrated Ph.D. student in Mechanical Engineering at Korea University. My research connects wearable sensing, multimodal learning, and human-centered AI to model driver state, health signals, and real-world interactive behavior.</p>
+        <div class="research-home__cta">
+          <a class="btn btn--large" href="https://mintlab.korea.ac.kr/MUST/">View MUST</a>
+          <a class="btn btn--inverse btn--large" href="/publications/">Selected Publications</a>
+          <a class="btn btn--inverse btn--large" href="/cv/">CV</a>
+        </div>
+      </div>
+      <div class="research-home__portrait-wrap">
+        <img class="research-home__portrait" src="/images/portrait.jpg" alt="Portrait of Seokyong Sheem">
+      </div>
     </div>
     <div class="research-home__meta">
       <article class="research-home__meta-card">
