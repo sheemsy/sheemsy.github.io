@@ -3,6 +3,20 @@
   gap: 2.5rem;
 }
 
+#main.main--home {
+  @include breakpoint($x-large) {
+    max-width: 88rem;
+  }
+}
+
+.page--home {
+  @include breakpoint($large) {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+}
+
 .research-home__hero {
   padding: 2rem;
   background:
