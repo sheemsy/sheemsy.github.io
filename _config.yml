@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Seokyong Sheem / Researcher"
 name                     : "Seokyong Sheem"
-description              : "Integrated Ph.D. Student in Mechanical Engineering at Korea University. Specializing in Multimodal Intelligence for Healthcare."
+description              : "Integrated Ph.D. Student at Korea University working on multimodal intelligence, wearable sensing, and human-centered AI systems."
 url                      : "https://sheemsy.github.io" 
 baseurl                  : "" 
 repository               : "sheemsy/sheemsy.github.io"
@@ -21,10 +21,10 @@ repository               : "sheemsy/sheemsy.github.io"
 author:
   avatar           : "portrait.jpg" 
   name             : "Seokyong Sheem"
-  bio              : "Integrated Ph.D. Student at Korea University"
+  bio              : "Integrated Ph.D. Student in Mechanical Engineering at Korea University"
   location         : "Seoul, South Korea"
   employer         : "Korea University"
-  email            : "sheemsy@gmail.com"
+  email            : "sheemsy@korea.ac.kr"
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
